@@ -50,3 +50,5 @@ end
 group :production do
 	gem 'pg'
 end
+
+gem "rake", "~> 10.1.1"
